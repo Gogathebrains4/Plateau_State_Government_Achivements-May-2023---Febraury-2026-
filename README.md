@@ -13,7 +13,7 @@ The dashboard provides a data-driven view of investments, project milestones, se
 ## 🖼 Dashboard Preview
 
 ### 🏛 Executive Summary
-![Executive Summary](images/Executive Summary.png)
+![Executive Summary](Images/Executive Summary.png)
 
 ### 🏗 Infrastructure Dashboard
 ![Infrastructure Dashboard](images/infrastructure.png)
