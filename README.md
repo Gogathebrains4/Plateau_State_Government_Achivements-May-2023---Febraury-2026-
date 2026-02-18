@@ -1,148 +1,117 @@
 # Plateau_State_Government_Achivements-May-2023---Febraury-2026
 
-Plateau State Government Achievements Dashboard (2023 – Present)
-Project Overview
+## Project Overview
 
 This project presents an interactive Power BI dashboard analyzing key achievements of the Plateau State Government (2023–Present) across four major sectors:
 
-Infrastructure
-
-Healthcare
-
-Agriculture
-
-Executive Summary (Cross-sector overview)
+- Infrastructure
+- Healthcare
+- Agriculture
+- Executive Summary (Cross-sector overview)
 
 The dashboard provides a data-driven view of investments, project milestones, service delivery outcomes, and sectoral resource allocation.
+## 🖼 Dashboard Preview
 
-Objectives
+### 🏛 Executive Summary
+![Executive Summary](images/executive-summary.png)
 
-Track government investment by sector
+### 🏗 Infrastructure Dashboard
+![Infrastructure Dashboard](images/infrastructure.png)
 
-Monitor infrastructure development progress
+### 🏥 Healthcare Dashboard
+![Healthcare Dashboard](images/healthcare.png)
 
-Assess healthcare service expansion and coverage
+### 🌾 Agriculture Dashboard
+![Agriculture Dashboard](images/agriculture.png)
 
-Evaluate agricultural interventions and land acquisition
+## Objectives
 
-Provide decision-support insights through interactive visualizations
+- Track government investment by sector
+- Monitor infrastructure development progress
+- Assess healthcare service expansion and coverage
+- Evaluate agricultural interventions and land acquisition
+- Provide decision-support insights through interactive visualizations
 
-Dataset Description
+## Dataset Description
 
 The dataset includes structured records with the following key fields:
 
-Sector (Infrastructure, Healthcare, Agriculture)
+- Sector (Infrastructure, Healthcare, Agriculture)
+- Category
+- Achievement Type
+- Location
+- Metric (Naira, Hectares, KM, MW, etc.)
+- Value
+- LGA
 
-Category
+## Dashboard Features
 
-Achievement Type
+### Executive Summary Page
 
-Location
+- Total Investment (Naira)
+- Roads Constructed (KM)
+- People Impacted
+- Average Healthcare Coverage
+- Sector Investment Breakdown
+- Project Milestones
 
-Metric (Naira, Hectares, KM, MW, etc.)
+### Infrastructure Dashboard
 
-Value
+- Infrastructure Investment
+- Roads Constructed
+- Energy Generated (MW)
+- Land Acquired
+- Boreholes Developed
+- Households Provided with Water
+- LGA-level project distribution
 
-LGA
+### Healthcare Dashboard
 
-Data Modeling Approach:
+- Healthcare Investment
+- Health Facilities Developed
+- Enrollment Metrics
+- Malaria Vaccines Procured
+- Expenditure Allocation (Pie Chart)
+- Resource Allocation Breakdown
 
-Star-schema structure
+### Agriculture Dashboard
 
-Sector-specific KPI tables
+- Agriculture Investment
+- Seeds Planted
+- Machinery Procured
+- Farmland Acquired (Hectares)
+- Expenditure Allocation
+- Resource Distribution
 
-Unified numeric aggregation table
+## Technical Implementation
 
-Measure-driven analytics
+### Data Modeling
 
-Dashboard Features
+- Star-schema structure
+- Sector-specific KPI tables
+- Aggregation using CALCULATE, SUM, DISTINCTCOUNT
+- Dynamic filtering by Sector, Category, LGA, and Achievement Type
 
-Executive Summary Page
+### Key DAX Techniques
 
-Total Investment (Naira)
+- Conditional aggregation
+- IN operator for multi-category filtering
+- Custom numeric formatting
+- Measure-based KPI cards
+- Filtered sector-specific measures
 
-Roads Constructed (KM)
+## Tools Used
 
-People Impacted
+- Microsoft Power BI Desktop
+- DAX (Data Analysis Expressions)
+  
 
-Average Healthcare Coverage
+👤 Author
+Wisdom Ogbeche
+Civil Engineer | Data Analyst
+- Excel (Data preparation)
+- Custom dashboard theming
 
-Sector Investment Breakdown
 
-Project Milestones
 
-Infrastructure Dashboard
 
-Infrastructure Investment
-
-Roads Constructed
-
-Energy Generated (MW)
-
-Land Acquired
-
-Boreholes Developed
-
-Households Provided with Water
-
-LGA-level project distribution
-
-Healthcare Dashboard
-
-Healthcare Investment
-
-Health Facilities Developed
-
-Enrollment Metrics
-
-Malaria Vaccines Procured
-
-Expenditure Allocation (Pie Chart)
-
-Resource Allocation Breakdown
-
-Agriculture Dashboard
-
-Agriculture Investment
-
-Seeds Planted
-
-Machinery Procured
-
-Farmland Acquired (Hectares)
-
-Expenditure Allocation
-
-Resource Distribution
-
-Technical Implementation
-
-Data Modeling
-
-Star-schema architecture
-
-Aggregation using CALCULATE, SUM, DISTINCTCOUNT
-
-Dynamic filtering by Sector, Category, LGA, Achievement Type
-
-Key DAX Techniques
-
-Conditional aggregation
-
-IN operator for multi-category filtering
-
-Custom numeric formatting
-
-Measure-based KPI cards
-
-Sector-specific calculated measures
-
-Tools Used
-
-Microsoft Power BI Desktop
-
-DAX (Data Analysis Expressions)
-
-Microsoft Excel (Data preparation)
-
-Custom dashboard theming
