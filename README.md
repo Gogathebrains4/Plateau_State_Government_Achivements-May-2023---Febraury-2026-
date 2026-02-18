@@ -104,14 +104,13 @@ The dataset includes structured records with the following key fields:
 
 - Microsoft Power BI Desktop
 - DAX (Data Analysis Expressions)
-  
+- Excel (Data preparation)
+- Custom dashboard theming
+
 
 👤 Author
 Wisdom Ogbeche
 Civil Engineer | Data Analyst
-- Excel (Data preparation)
-- Custom dashboard theming
-
 
 
 
