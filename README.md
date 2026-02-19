@@ -16,13 +16,13 @@ The dashboard provides a data-driven view of investments, project milestones, se
 ![Executive Summary](https://github.com/Gogathebrains4/Plateau_State_Government_Achivements-May-2023---Febraury-2026-/blob/main/Images/Executive%20Summary.png)
 
 ### 🏗 Infrastructure Dashboard
-![Infrastructure Dashboard]https://github.com/Gogathebrains4/Plateau_State_Government_Achivements-May-2023---Febraury-2026-/blob/main/Images/Infrastructure%20Dashboard.png
+![Infrastructure Dashboard](https://github.com/Gogathebrains4/Plateau_State_Government_Achivements-May-2023---Febraury-2026-/blob/main/Images/Infrastructure%20Dashboard.png)
 
 ### 🏥 Healthcare Dashboard
-![Healthcare Dashboard]https://github.com/Gogathebrains4/Plateau_State_Government_Achivements-May-2023---Febraury-2026-/blob/main/Images/Healthcare%20Dashboard.png
+![Healthcare Dashboard](https://github.com/Gogathebrains4/Plateau_State_Government_Achivements-May-2023---Febraury-2026-/blob/main/Images/Healthcare%20Dashboard.png)
 
 ### 🌾 Agriculture Dashboard
-![Agriculture Dashboard]https://github.com/Gogathebrains4/Plateau_State_Government_Achivements-May-2023---Febraury-2026-/blob/main/Images/Agriculture%20Dashboard.png
+![Agriculture Dashboard](https://github.com/Gogathebrains4/Plateau_State_Government_Achivements-May-2023---Febraury-2026-/blob/main/Images/Agriculture%20Dashboard.png)
 
 ## Objectives
 
