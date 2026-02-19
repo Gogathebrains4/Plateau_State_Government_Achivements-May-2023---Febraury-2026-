@@ -13,7 +13,7 @@ The dashboard provides a data-driven view of investments, project milestones, se
 ## 🖼 Dashboard Preview
 
 ### 🏛 Executive Summary
-![Executive Summary](https://raw.githubusercontent.com/yourusername/yourrepo/main/Images/Executive%20Summary.png)
+![Executive Summary](https://github.com/Gogathebrains4/Plateau_State_Government_Achivements-May-2023---Febraury-2026-/blob/main/Images/Executive%20Summary.png)
 
 ### 🏗 Infrastructure Dashboard
 ![Infrastructure Dashboard](images/infrastructure.png)
